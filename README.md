@@ -1,4 +1,19 @@
-# Nuxt 3 Minimal Starter
+# Project Details
+Create a Nuxt project (Must be Nuxt 3 Project)
+
+Implement the UI (You can only use Tailwind CSS and Nuxt UI)
+
+Take the User's GPS coordinates, calculate the distance, and show it under the customer address.
+
+When the Inspect button is clicked, a Popup should open. In that popup, let the user click a photo and store it as a Base64 Image string in a variable.
+
+Once the image is clicked, a Toast message should be shown. And remember, make it a global component so it can be invoked from anywhere in the application.
+
+Deploy the project in Vercel or Netlify.
+
+[UI Demo Link:](https://xd.adobe.com/view/5a754cdd-f188-49c8-b9ba-eae0e200246c-0f26/)
+
+## Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
