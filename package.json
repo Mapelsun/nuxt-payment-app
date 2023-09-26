@@ -11,7 +11,8 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
-    "nuxt": "^3.7.3"
+    "nuxt": "^3.7.3",
+    "nuxt3-leaflet": "^1.0.12"
   },
   "dependencies": {
     "@iconify/json": "^2.2.120",
