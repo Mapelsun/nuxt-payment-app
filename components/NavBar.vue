@@ -1,9 +1,9 @@
-<script setup>
-</script>
+<script setup></script>
 
 <template>
   <div
-    class="fixed bg-white bottom-0 left-0 right-0 border-t flex items-center justify-between p-4 [&_a]:flex [&_a]:flex-col [&_a]:items-center [&_span]:text-xs">
+    class="fixed bg-white bottom-0 left-0 right-0 border-t flex items-center justify-between p-4 [&_a]:flex [&_a]:flex-col [&_a]:items-center [&_span]:text-xs"
+  >
     <NuxtLink to="/chats">
       <Icon name="i-carbon-chat" />
       <span>Chats</span>
